@@ -7,7 +7,7 @@ Software Engineeer
 I'm senior student at Sai Gon University, I'm passionate in Java and C#.
 
 * 🌍  I'm based in Hồ Chí Minh, VNM
-* 🖥️  See my portfolio at [VanMuoi]([http://phongkp.github.io/myresume/](https://vanmuoi24.github.io/Portfolio/))
+* 🖥️  See my portfolio at [VanMuoi](https://vanmuoi24.github.io/Portfolio/)
 * ✉️  You can contact me at [domuoigghh@gmail.com)
 * 🧠  I'm learning Spring, ASP .NET Core
 * 🤝  I'm open to collaborating on interesting projects
