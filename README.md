@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Van Muoi
+# 👋 Hi, I'm Vy Văn Mười
 
 
 Software Engineeer
@@ -7,8 +7,8 @@ Software Engineeer
 I'm senior student at Sai Gon University, I'm passionate in Java and C#.
 
 * 🌍  I'm based in Hồ Chí Minh, VNM
-* 🖥️  See my portfolio at [PhongKP](http://phongkp.github.io/myresume/)
-* ✉️  You can contact me at [koongchanphong0712@gmail.com](mailto:koongchanphong0712@gmail.com)
+* 🖥️  See my portfolio at [VanMuoi]([http://phongkp.github.io/myresume/](https://vanmuoi24.github.io/Portfolio/))
+* ✉️  You can contact me at [domuoigghh@gmail.com)
 * 🧠  I'm learning Spring, ASP .NET Core
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm looking forward being an professional Software Engineer and working in FAANG
